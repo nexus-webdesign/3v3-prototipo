@@ -805,8 +805,8 @@ export default function Home() {
             <p className="operation-lead">Tecnologia aplicada na maior produtora de melão do mundo.</p>
             <div className="operation-stats">
               <div><Counter value={14} /><span>fazendas automatizadas</span></div>
-              <div><Counter value={12} prefix="Mais de " suffix=" mil" /><span>hectares</span></div>
-              <div><Counter value={3} prefix="Mais de " suffix=" mil" /><span>dispositivos instalados</span></div>
+              <div><Counter value={12} prefix="+" suffix=" mil" /><span>hectares</span></div>
+              <div><Counter value={3} prefix="+" suffix=" mil" /><span>dispositivos instalados</span></div>
             </div>
             <p>A atuação da 3v3 integra automação, telemetria, sensoriamento e gestão da irrigação em uma operação de grande escala, contribuindo para um campo mais conectado, preciso e preparado para crescer.</p>
           </div>

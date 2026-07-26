@@ -1450,11 +1450,11 @@ h2 em {
   color: #aeb3b5;
   font-size: 12px;
   line-height: 1.35;
+  text-align: center;
 }
 
 .operation-stats > div:nth-child(2) > span {
   font-size: 13px;
-  text-align: center;
 }
 
 .operation-stats > div:nth-child(3) > span {
